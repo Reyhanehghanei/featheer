@@ -1,0 +1,49 @@
+.body {
+    background-color: aliceblue;
+}
+
+/* main */
+
+/* text-img-main */
+.main-h {
+    word-spacing: -9px;
+}
+
+.p-main {
+    font-size: 25px;
+}
+
+.shadow {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+/* button- */
+.p-butoon {
+    padding-top: 10px !important;
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+    padding-bottom: 10px !important;
+}
+
+.m-t-45 {
+    margin-top: 45px;
+}
+
+/* end-button- */
+/* img */
+.img-main-a {
+    width: 30%;
+}
+
+/* end-img */
+.font-semibold {
+    color: black;
+    font-weight: bold;
+}
+
+.block {
+    color: #645959;
+}
+
+/*end-text-img-main */
+/* main */
